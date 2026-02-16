@@ -23,11 +23,10 @@ Reference implementations belong in a separate repository (`mari-engine`).
 ## Quick Start
 
 - Architecture Overview: `01_Architecture/01_Layer_Model.md`
-- Value Store: `02_Value_Store/01_Value_Format.md`
-- Order Layer: `03_Order_Layer/01_Order_File_Schema.md`
-- Code of Law: `04_Code_of_Law/01_Code_of_Law_Schema.md`
-- Projections: `05_Projections/01_Projection_Contract.md`
-- Training Data (ERP demo + Code of Law): `06_Training_Data/README.md`
+- Value Store: `01_Architecture/03_Value_Format.md`
+- Order Layer: `01_Architecture/04_Order_File_Schema.md`
+- Code of Law: `01_Architecture/05_Code_of_Law_Schema.md`
+- Projections: `01_Architecture/06_Projection_Contract.md`
 
 ---
 
